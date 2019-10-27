@@ -1,8 +1,8 @@
 name: flutter_package
-description: A new Flutter package.
+description: It will opens a dialog box based on input params.
 version: 0.0.1
-author:
-homepage:
+author: krishnaji<krishnajiyedlapalli60@gmail.com>
+homepage: https://github.com/krishnaji-yedlapalli/generic_dialogBox
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
